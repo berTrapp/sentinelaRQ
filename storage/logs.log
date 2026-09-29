@@ -1,8 +1,0 @@
-{"url":"https://google.com","status":200,"ok":true,"time_ms":315,"error":null,"checked_at":"2026-09-29 16:43:53"}
-{"url":"https://google.com","status":200,"ok":true,"time_ms":268,"error":null,"checked_at":"2026-09-29 16:43:54"}
-{"url":"https://github.com","status":200,"ok":true,"time_ms":662,"error":null,"checked_at":"2026-09-29 16:43:54"}
-{"url":"https://php.net","status":200,"ok":true,"time_ms":1717,"error":null,"checked_at":"2026-09-29 16:43:56"}
-{"url":"https://github.com","status":200,"ok":true,"time_ms":651,"error":null,"checked_at":"2026-09-29 16:43:57"}
-{"url":"https://php.net","status":200,"ok":true,"time_ms":1468,"error":null,"checked_at":"2026-09-29 16:43:58"}
-{"url":"https://example.com","status":200,"ok":true,"time_ms":46,"error":null,"checked_at":"2026-09-29 16:44:49"}
-{"url":"https://nao-existe.invalid","status":0,"ok":false,"time_ms":63,"error":"Could not resolve host: nao-existe.invalid","checked_at":"2026-09-29 16:44:49"}

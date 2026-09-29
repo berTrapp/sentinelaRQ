@@ -1,0 +1,11 @@
+# Dependências do Composer (recriadas pelo composer install)
+/vendor/
+
+# Logs gerados pelo worker
+/storage/*
+!/storage/.gitkeep
+
+# Editor / SO
+.idea/
+.vscode/
+.DS_Store
